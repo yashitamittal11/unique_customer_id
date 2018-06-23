@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Display Customer ID
-Plugin URI: https://github.com/yashitamittal11/display_customer_ID/
+Plugin URI: https://github.com/yashitamittal11/unique_customer_id/
 Description: Display a unique customer ID whilst user are logged in
 Version: 1.0
 Author URI: http://www.yashitamittal.com
